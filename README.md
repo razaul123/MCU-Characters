@@ -9,7 +9,7 @@
     <body>
 
 <h1>List of MCU characters</h1>
-<h2>Characters in Iron Man trilogy</h1>
+<h2>Characters in Iron Man trilogy</h2>
 <h3>Iron Man</h3>
 <h3>War Machine</h3>
 <h3>Peppeer Pots</h3>
