@@ -1,5 +1,5 @@
 # MCU-Characters
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -8,7 +8,8 @@
     </head>
     <body>
 
-<h1>Characters in Iron Man trilogy</h1>
+<h1>List of MCU characters</h1>
+<h2>Characters in Iron Man trilogy</h1>
 <h3>Iron Man</h3>
 <h3>War Machine</h3>
 <h3>Peppeer Pots</h3>
