@@ -13,6 +13,7 @@
 <h2>Characters in Iron Man trilogy</h2>
 
 <h3>Iron Man</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213">
 <p>Full name: Anthony Edward Stark<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -41,6 +42,7 @@ After the Ultron Offensive, Stark retired from active duty, still haunted by his
 In the five years after the Snap, Stark chose to retire from being Iron Man, marrying Potts and having a daughter, <em>Morgan Stark</em>. <strong>When Stark discovered the key to travel through time, he rejoined the Avengers to undo the Snap</strong>, traveling back in time to retrieve the Scepter and then to regain the <em>Tesseract</em>. During the Battle of Earth, Stark heroically sacrificed himself to eliminate Thanos and his armies, who traveled through time to collect the Infinity Stones, saving the universe from decimation, and leaving behind a legacy as one of Earth's most revered superheroes.</p>
 
 <h3>War Machine</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940">
 <p>Full name: James Rupert Rhodes<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -67,6 +69,7 @@ Having been given leg braces by Tony Stark to help him walk again, Rhodes had be
 Determined to undo Thanos' actions, <strong>War Machine joined the Avengers to <em>the Garden</em></strong>, as they discovered that Thanos had destroyed the Infinity Stones, prompting Thor to behead the Mad Titan. However, by 2023, the Avengers learned to travel through time and War Machine joined Nebula on a mission to take the <em>Power Stone</em> from <em>Morag</em> in 2014. Succeeding in the mission, the Avengers reversed the Snap, before then being attacked by a past version of Thanos and his entire armies of the Chitauri and Outriders. War Machine then joined his fellow heroes in battling Thanos until Tony Stark sacrificed his life to finally eliminate Thanos, as Rhodes stayed by his best friend's side during his final moments before attending his funeral.</p>
 
 <h3>Peppeer Potts</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706">
 <p>Full name: Virginia Potts<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -88,6 +91,7 @@ As the War on HYDRA began, <strong>the Avengers needed to be remobilized. Withou
 However, shortly after the Avengers Civil War ended, Stark and Potts resumed their relationship, where Stark eventually proposed to her. <strong>The two married following the Snap and had a daughter, Morgan Stark</strong>. The three of them resided on the Stark Residence until Stark departed for <em>the Time Heist</em>. Later, Potts joined the Avengers in <em>the Battle of Earth</em> as <em>Rescue</em>, wearing <em>the Mark XLIX armor</em>, when Thanos' forces invaded. After Stark died by her side, Potts was present at his funeral, where she set adrift Stark's first Arc Reactor onto a wreath into their residential lakeside.</p>
 
 <h3>Iron Monger</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453">
 <p>Full name: Obediah Stane<br>
 Species: Human<br>
 Citizenship: American<br>
