@@ -18,6 +18,14 @@ Species: Human<br>
 Citizenship: American<br>
 DOB: 29/05/1970<br>
 DOD: October 2023<br>
+Alias:<br>
+    <ul>
+        <li>The New kid</li>
+        <li>Visionary</li>
+        <li>Genius</li>
+        <li>The American Patriot</li>
+        <li>The Prodigal Son</li>
+   </ul>
 Anthony Edward "Tony" Stark was a <strong>billionaire industrialist, a founding member of the <em>Avengers</em>, and the former CEO of Stark Industries</strong>. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist. With his great wealth and exceptional technical knowledge, Stark was one of the world's most powerful men following the deaths of his parents and enjoyed the playboy lifestyle for many years until he was kidnapped by the <em>Ten Rings</em> in Afghanistan, while demonstrating a fleet of Jericho missiles. With his life on the line, Stark created an armored suit which he used to escape his captors. Upon returning home, he utilized several more armors to use against terrorists, as well as <em>Obadiah Stane</em> who turned against Stark. Stark enjoyed the fame that came with his new secret identity and decided to share it with the world, <strong>publicly revealing himself as Iron Man</strong>.<br>
     
 Fresh off from defeating enemies all over the world, Stark found himself dying due to his own <em>Arc Reactor</em> poisoning his body, all while he was challenged by <em>Ivan Vanko</em> who attempted to destroy his legacy. Due to their assistance in both these battles, Stark reluctantly agreed to serve as a <strong>consultant for S.H.I.E.L.D. where he used his position to upgrade their technology</strong> while he began a relationship with <em>Pepper Potts</em>. With the world yet again being threatened, Stark joined the Avengers and helped defeat the <em>Chitauri</em> and <em>Loki</em>. Due to the battle, he suffered from post-traumatic stress disorder, leading him to create the <em>Iron Legion</em> to safeguard the world and help him retire.<br>
@@ -38,7 +46,15 @@ Species: Human<br>
 Citizenship: American<br>
 DOB: 06/10/1968<br>
 DOD: still alive<br>
-    Colonel James Rupert "Rhodey" Rhodes is an officer with the <em>United States Air Force</em> and liaison between the military in <em>the Department of Acquisitions and Stark Industries</em>, where he became close friends with Tony Stark. When Stark had been kidnapped by the Ten Rings, <strong>Rhodes personally led a mission to rescue his best friend</strong>. However, upon their return, Rhodes saw Stark moving away from developing his weapons for the military and soon discovered that he was instead focusing on becoming a hero known as Iron Man. Despite all of his fears for his friend's safety, <strong>Rhodes still joined Iron Man in bringing down Obadiah Stane's schemes</strong>, while trying to keep Stark's secrets, only for Stark to reveal them to the media himself.<br>
+Alias:<br>
+ <ul>
+  <li>Rhoey</li>   
+  <li>Iron Patriot</li>
+  <li>Honey Bear</li>
+  <li>Platypus</li>
+  <li>The Patriot</li>
+ </ul>    
+Colonel James Rupert "Rhodey" Rhodes is an officer with the <em>United States Air Force</em> and liaison between the military in <em>the Department of Acquisitions and Stark Industries</em>, where he became close friends with Tony Stark. When Stark had been kidnapped by the Ten Rings, <strong>Rhodes personally led a mission to rescue his best friend</strong>. However, upon their return, Rhodes saw Stark moving away from developing his weapons for the military and soon discovered that he was instead focusing on becoming a hero known as Iron Man. Despite all of his fears for his friend's safety, <strong>Rhodes still joined Iron Man in bringing down Obadiah Stane's schemes</strong>, while trying to keep Stark's secrets, only for Stark to reveal them to the media himself.<br>
     
 With Iron Man's identity known, Rhodes found himself under pressure from <em>the United States Congress</em> and the military to take possession of the armor for himself, something that he was against. However, as Stark's reckless behavior got even worse, Rhodes had no choice but to take <em>the Mark II armour</em> before handing it over to the military, with <em>Justin Hammer</em> upgrading it with his new weapons to rebrand Rhodes as <em>War Machine</em>. However, just when War Machine was being presented to the world, <strong>Ivan Vanko returned and attacked the Stark Expo with an army of <em>Hammer Drones</em></strong>, as War Machine teamed up with Iron Man to bring him down, resulting in Rhodes keeping the armor for himself, despite Stark's continued objections.<br>
 
@@ -56,7 +72,13 @@ Species: Human<br>
 Citizenship: American<br>
 DOB: Febuary<br>
 DOD: still alive<br>
-    Virginia "Pepper" Potts is the CEO of <em>Stark Industries</em>. Originally working as <strong>Tony Stark's personal assistant, she would take care of his schedule and perform any task he wished</strong>. During this time, Potts became good friends with Stark and soon, they had begun developing romantic feelings for each other. However, neither was able to act on these feelings, as they each feared that the other would not accept them.<br>
+Alias:<br>
+<ul>
+<li>Pinhead</li>
+ <li>Pep</li>
+ <li>Rescue</li>   
+</ul>
+Virginia "Pepper" Potts is the CEO of <em>Stark Industries</em>. Originally working as <strong>Tony Stark's personal assistant, she would take care of his schedule and perform any task he wished</strong>. During this time, Potts became good friends with Stark and soon, they had begun developing romantic feelings for each other. However, neither was able to act on these feelings, as they each feared that the other would not accept them.<br>
     
 When Stark returned from captivity in <em>Afghanistan</em>, <strong>Potts was trusted enough by him to see his Iron Man suits and his workshop</strong>. She helped Stark defeat Obadiah Stane, who tried to kill Stark, by overloading the Arc Reactor, killing Stane. After Stane's death, Stark made Potts his new business partner, taking Stane's place. Believing his death was imminent, Stark stepped down as CEO and appointed her as his replacement. After Stark defeated <em>Whiplash</em> at <em>the Stark Expo</em>, both Potts and Stark finally admitted their attraction to each other and began a romantic relationship.<br>
 During the crisis surrounding the Mandarin's terrorist attacks, Potts was kidnapped by Aldrich Killian and injected with <em>Extremis</em>. She was freed by Stark during the Battle on the Norco and went on to kill Killian herself. Stark cured her of the effects of Extremis, who temporarily gave up being Iron Man just for her.<br>
