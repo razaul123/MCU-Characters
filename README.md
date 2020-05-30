@@ -87,5 +87,16 @@ As the War on HYDRA began, <strong>the Avengers needed to be remobilized. Withou
 
 However, shortly after the Avengers Civil War ended, Stark and Potts resumed their relationship, where Stark eventually proposed to her. <strong>The two married following the Snap and had a daughter, Morgan Stark</strong>. The three of them resided on the Stark Residence until Stark departed for <em>the Time Heist</em>. Later, Potts joined the Avengers in <em>the Battle of Earth</em> as <em>Rescue</em>, wearing <em>the Mark XLIX armor</em>, when Thanos' forces invaded. After Stark died by her side, Potts was present at his funeral, where she set adrift Stark's first Arc Reactor onto a wreath into their residential lakeside.</p>
 
+<h3>Iron Monger</h3>
+<p>Full name: Obediah Stane<br>
+Species: Human<br>
+Citizenship: American<br>
+DOB: unknown<br>
+DOD: 24/11/2009<br>
+Alias:<br>
+    <ul>
+        <li>Obie</li>
+   </ul>
+Obadiah Stane was the business partner of Tony Stark and a good friend of his father, <em>Howard Stark</em>. After Howard's death, <strong>Stane became interim CEO of Stark Industries until Tony took over officially shortly after</strong>. Stane's jealousy of the younger Stark led him to join forces with the Ten Rings to organize a failed attempt to assassinate him so Stane could become CEO once again. <strong>He further armed the Ten Rings with Stark Industries weapons</strong>, to facilitate their campaign in the war-torn <em>Gulmira</em>. When his involvement with terrorists was exposed by Pepper Potts, Stane created the <em>Iron Monger Armor</em> and attempted to kill Stark himself, leading to his own death.</p>   
    </body>
 </html>
