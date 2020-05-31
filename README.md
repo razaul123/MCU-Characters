@@ -6,10 +6,12 @@
       <link rel="stylesheet" href="style.css">
         <title>List of MCU characters</title>
         <style>
-  body{
-            
-  background-color: lightgray;
-  
+  body{       
+  background-color: black;
+  color: white;
+  }
+  h3{
+  color: red;
   }
   </style>
    </head>
