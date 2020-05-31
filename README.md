@@ -117,5 +117,66 @@ Alias:<br>
         <li>Obie</li>
    </ul>
 Obadiah Stane was the business partner of Tony Stark and a good friend of his father, <em>Howard Stark</em>. After Howard's death, <strong>Stane became interim CEO of Stark Industries until Tony took over officially shortly after</strong>. Stane's jealousy of the younger Stark led him to join forces with the Ten Rings to organize a failed attempt to assassinate him so Stane could become CEO once again. <strong>He further armed the Ten Rings with Stark Industries weapons</strong>, to facilitate their campaign in the war-torn <em>Gulmira</em>. When his involvement with terrorists was exposed by Pepper Potts, Stane created the <em>Iron Monger Armor</em> and attempted to kill Stark himself, leading to his own death.</p>   
+
+<h3>Ho Yinsen</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200">
+<p>Full name: Ho Yinsen<br>
+Species: Human<br>
+Citizenship: Afghan<br>
+DOB: unknown<br>
+DOD: May 2009<br>
+Doctor Ho Yinsen was a <strong>renowned scientist and surgeon</strong>, hailing from the village of <em>Gulmira</em>. After his family was killed during a surge in local terrorist activity, Yinsen was abducted and held captive by the <strong>Ten Rings in Afghanistan</strong>. When Tony Stark was also kidnapped, Yinsen was charged with attending to Stark's medical needs after Stark was brought in injured from an explosive.<br>
+
+After several months in captivity, <strong>Yinsen helped Stark escape the cave by developing a specialized suit of armor</strong>, but willingly sacrificed himself in the process to the terrorists, telling Stark not to waste his life before he died.</p>
+
+<h3>Happy Hogan</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200">
+<p>Full name: Harold Joseph Hogan<br>
+Species: Human<br>
+Citizenship: American<br>
+DOB: unknown<br>
+DOD: still alive<br>
+Alias:<br>
+    <ul>
+        <li>Bodygaurd/li>
+        <li>lapdog</li>
+        <li>Mr Happy</li>
+        <li>Hap</li>
+   </ul>
+Harold Joseph "Happy" Hogan is one of <strong>Tony Stark's closest friends and his personal chauffeur</strong> who formerly worked as his personal bodyguard and <em>Head of Security of Stark Industries</em>. Hogan was almost killed during Aldrich Killian's War, which motivated Stark to get revenge on the Mandarin, who he believed was behind Hogan's injuries. After his recovery, Hogan continued to faithfully serve as Stark's friend and employee.<br>
+
+Hogan oversaw <strong>Stark's mentorship over Spider-Man</strong>, aiding the young hero on his trip to <em>Germany</em> and acting as their liaison when Parker continued his superhero activities. Hogan, however, was irritated by the boy and avoided his duties with him. After Parker defeated Vulture to prevent the cargo in which Hogan kept certain valuable items to be transferred to the <strong>New Avengers Facility</strong> from getting hijacked, the young hero earned Hogan's admiration and respect.<br>
+
+In 2023, Hogan was present at Stark's funeral, after he died during the <em>Battle of Earth</em>. The grief-ridden Hogan began working with May Parker, and helped Peter Parker fight the Elementals in Europe.</p>
+
+<h3>Phil Coulson</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200">
+<p>Full name: Phillip J. Coulson<br>
+Species: Human<br>
+Citizenship: American<br>
+DOB: 08/07/1964<br>
+DOD: still alive<br>
+Alias:<br>
+    <ul>
+        <li>Rookie/li>
+        <li>New Guy</li>
+        <li>Son of Coul</li>
+        <li>Boss</li>
+   </ul>
+Phillip J. "Phil" Coulson was a former <em>Director of S.H.I.E.L.D.</em>, before that one of its best agents and <em>Nick Fury</em>'s right-hand man for many important missions. He served as the primary operative in the <em>Avengers Initiative</em> following a <strong>Skrull Invasion on Earth in the 1990s</strong>, which led to the surfacing of <em>Captain Marvel</em>. Coulson also ran ground interference, surveillance and tactical operations in <em>Puente Antiguo, New Mexico</em> as part of S.H.I.E.L.D.'s investigation surrounding the incident with <em>Thor</em> and <strong>the Destroyer<?strong>. He was also the primary S.H.I.E.L.D. operative in the investigation into Stark Industries.<br>
+
+During the Attack on the Helicarrier, <strong>Coulson was killed by Loki</strong>. His death gave the Avengers the push they needed to band together and stop the <strong>Chitauri invasion</strong>. On Fury's orders, Coulson was brought to the Guest House, a secret facility where he was brought back to life using treatments developed by <em>Project T.A.H.I.T.I.</em>, <strong>a project which he had formerly presided over</strong>. To preserve his sanity after he was healed, all memory of these events were removed from his mind.<br>
+
+Coulson returned to S.H.I.E.L.D. to lead a new team to investigate the cases S.H.I.E.L.D. had not yet classified. While on this team, Coulson discovered the truth about the events after his death. During the <em>HYDRA Uprising</em>, despite the dissolution of S.H.I.E.L.D. and the betrayal of <em>Grant Ward</em>, <strong>he led his team against the forces of HYDRA</strong>, attempting to stop <em>John Garrett</em>, winning the final battle in which Garrett was ultimately defeated. After the battle, <strong>Nick Fury appointed him the new Director of S.H.I.E.L.D.</strong>, ordering him to rebuild the organization from scratch.<br>
+
+To perform that task, Coulson led the remains of S.H.I.E.L.D. in many battles against HYDRA, crippling the terrorist organization. He even made some contacts with the <strong>United States Air Force via Glenn Talbot</strong>. However, he became a fugitive when another faction of S.H.I.E.L.D., led by Robert Gonzales, attacked and occupied his base. Now accompanied by only a few loyal friends, Coulson started a battle to reclaim S.H.I.E.L.D. He eventually made a deal with Gonzales, and they worked together against HYDRA, finally reunifying the two factions into one organization with Coulson as its rightful director. However, a new threat soon arose, the Inhumans led by Jiaying. In the ensuing conflict, both S.H.I.E.L.D. and the Inhumans suffered casualties, and even Coulson paid an extreme price to achieve victory, having his left arm cut off. But even that loss did not stop him, and he started a new project that would ensure the safety of humanity.<br>
+
+The mission of recruiting Inhumans for the team became more difficult, as the Advanced Threat Containment Unit led by Rosalind Price, was dealing with the threat of the new Inhumans. However, Coulson had a relationship with Price while facing the threats of Ward's HYDRA, Lash and the Inhumans. After Ward killed Price, Coulson followed him to the planet Maveth and killed him to avenge all the people that he had murdered. As he thought that Gideon Malick was the last remaining leader of HYDRA, Coulson discovered that the Hive had returned to Earth from Maveth, using Ward's body as a host. With Malick's death, Coulson, with feelings of guilt for causing this threat, invested efforts to prevent Hive from accomplishing his plan to change all Humans to Inhumans and to control all of them. Once Lincoln Campbell had sacrificed himself to kill Hive and saved humanity, the directorship of S.H.I.E.L.D. passed to Jeffrey Mace, while Coulson and Alphonso Mackenzie conducted a pursuit after the former agent turned vigilante Daisy Johnson.<br>
+
+With the revelation of Lucy Bauer and her ambition to find the Darkhold, Coulson created an alliance with Johnson and Ghost Rider to find the book before the ghost did. He was caught in an explosion with Ghost Rider and Leo Fitz by Eli Morrow and almost sank into another dimension but managed to get out with help from Holden Radcliffe and Aida. Coulson then led the last fight against Morrow. Following the revelation that Mace was not actually an Inhuman, Coulson returned to the position of Director de facto while Mace remained de jure Director. Continuing fighting the Watchdogs led by Anton Ivanov who targeted him, Coulson was kidnapped by Holden Radcliffe, replaced by an LMD and put inside the Framework, where he lived as a history teacher. With the help of Johnson and Jemma Simmons, Coulson escaped the Framework, only to face against the threat of Aida to the real world.<br>
+
+After he killed her, by temporarily bonding with the Spirit of Vengeance, Coulson and the others were sent to the year 2091, when Earth had been destroyed and the surviving humans were enslaved by the Kree. He and the other agents eventually made it back to the present day, although Coulson revealed that he was dying from his old injury due to his deal with the Spirit of Vengeance. In order to learn more about the Destruction of Earth, Coulson was imprisoned by Hale, who not only revealed that HYDRA still existed under her leadership, but also that there was an impending alien invasion. Following his escape, S.H.I.E.L.D. entered into a conflict with the Confederacy, but as he was trying to negotiate with them, Talbot turned to villainy. Coulson aided in defeating Talbot in the Battle of Chicago and stopped him from amassing the planet's Gravitonium, successfully averting the destruction of Earth.<br>
+
+Coming to peace with the terms of his impeding death, Coulson retired from S.H.I.E.L.D. and lived out his remaining days in Tahiti with Melinda May, eventually succumbing to his illness.</p>
    </body>
 </html>
