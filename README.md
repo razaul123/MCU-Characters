@@ -13,6 +13,12 @@
   h3{
   color: red;
   }
+  em{
+  color: gray;
+  }
+  strong{
+  color: orange;          
+  }
   </style>
    </head>
     <body>
