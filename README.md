@@ -5,7 +5,14 @@
         <meta charset="utf-8">
       <link rel="stylesheet" href="style.css">
         <title>List of MCU characters</title>
-    </head>
+        <style>
+  body{
+            
+  color: lightgray;
+  
+  }
+  </style>
+   </head>
     <body>
 
 <h1>List of MCU characters</h1>
