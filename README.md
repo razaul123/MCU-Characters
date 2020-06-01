@@ -19,6 +19,13 @@
   strong{
   color: orange;          
   }
+  #war-machine{
+  color: darkgoldenrod;
+  }
+  #image-war{
+  border-style: solid;
+  border-color: darkgoldenrod;          
+  }          
   </style>
    </head>
     <body>
@@ -56,8 +63,8 @@ After the Ultron Offensive, Stark retired from active duty, still haunted by his
   
 In the five years after the Snap, Stark chose to retire from being Iron Man, marrying Potts and having a daughter, <em>Morgan Stark</em>. <strong>When Stark discovered the key to travel through time, he rejoined the Avengers to undo the Snap</strong>, traveling back in time to retrieve the Scepter and then to regain the <em>Tesseract</em>. During the Battle of Earth, Stark heroically sacrificed himself to eliminate Thanos and his armies, who traveled through time to collect the Infinity Stones, saving the universe from decimation, and leaving behind a legacy as one of Earth's most revered superheroes.</p>
 
-<h3>War Machine</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200">
+<h3 id="war-machine">War Machine</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war">
 <p>Full name: James Rupert Rhodes<br>
 Species: Human<br>
 Citizenship: American<br>
