@@ -138,7 +138,7 @@ DOB: unknown<br>
 DOD: still alive<br>
 Alias:<br>
     <ul>
-        <li>Bodygaurd/li>
+        <li>Bodygaurd</li>
         <li>lapdog</li>
         <li>Mr Happy</li>
         <li>Hap</li>
@@ -158,7 +158,7 @@ DOB: 08/07/1964<br>
 DOD: still alive<br>
 Alias:<br>
     <ul>
-        <li>Rookie/li>
+        <li>Rookie</li>
         <li>New Guy</li>
         <li>Son of Coul</li>
         <li>Boss</li>
