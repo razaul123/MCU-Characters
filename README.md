@@ -25,6 +25,17 @@
   #image-war{
   border-style: solid;
   border-color: darkgoldenrod;          
+  }  
+  #iron-man{
+  border-style: solid;
+  boder-color: red;          
+  }
+  #mrs-stark{
+  color: white;          
+  }   
+  #pepper-stark{
+  border-style: solid;
+  border-color: white          
   }          
   </style>
    </head>
@@ -35,7 +46,7 @@
 <h2>Characters in Iron Man trilogy</h2>
 
 <h3>Iron Man</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200">
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man">
 <p>Full name: Anthony Edward Stark<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -90,8 +101,8 @@ Having been given leg braces by Tony Stark to help him walk again, Rhodes had be
 
 Determined to undo Thanos' actions, <strong>War Machine joined the Avengers to <em>the Garden</em></strong>, as they discovered that Thanos had destroyed the Infinity Stones, prompting Thor to behead the Mad Titan. However, by 2023, the Avengers learned to travel through time and War Machine joined Nebula on a mission to take the <em>Power Stone</em> from <em>Morag</em> in 2014. Succeeding in the mission, the Avengers reversed the Snap, before then being attacked by a past version of Thanos and his entire armies of the Chitauri and Outriders. War Machine then joined his fellow heroes in battling Thanos until Tony Stark sacrificed his life to finally eliminate Thanos, as Rhodes stayed by his best friend's side during his final moments before attending his funeral.</p>
 
-<h3>Peppeer Potts</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200">
+<h3 id="mrs-stark">Peppeer Potts</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200" id="pepper-stark">
 <p>Full name: Virginia Potts<br>
 Species: Human<br>
 Citizenship: American<br>
