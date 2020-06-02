@@ -36,8 +36,16 @@
   #pepper-stark{
   border-style: solid;
   border-color: white;          
-  }          
+  }     
+  #iron-bad{
+  color: slateblue;
+  }           
+  #bad-image{
+  border-style:solid;
+  border-color: slateblue;          
+  }
   </style>
+ 
    </head>
     <body>
 
@@ -123,8 +131,8 @@ As the War on HYDRA began, <strong>the Avengers needed to be remobilized. Withou
 
 However, shortly after the Avengers Civil War ended, Stark and Potts resumed their relationship, where Stark eventually proposed to her. <strong>The two married following the Snap and had a daughter, Morgan Stark</strong>. The three of them resided on the Stark Residence until Stark departed for <em>the Time Heist</em>. Later, Potts joined the Avengers in <em>the Battle of Earth</em> as <em>Rescue</em>, wearing <em>the Mark XLIX armor</em>, when Thanos' forces invaded. After Stark died by her side, Potts was present at his funeral, where she set adrift Stark's first Arc Reactor onto a wreath into their residential lakeside.</p>
 
-<h3>Iron Monger</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453" width="200">
+<h3 id="iron-bad">Iron Monger</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453" width="200" id="bad-image">
 <p>Full name: Obediah Stane<br>
 Species: Human<br>
 Citizenship: American<br>
