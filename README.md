@@ -69,6 +69,9 @@ border-style: solid;
 border-style:solid;
  border-color: red;
 }
+.marvel{
+color: seashell;
+}
   </style>
  
    </head>
@@ -80,7 +83,7 @@ border-style:solid;
 
 <h3>Iron Man</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man">
-<p>Full name: Anthony Edward Stark<br>
+<p class="marvel">Full name: Anthony Edward Stark<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: 29/05/1970<br>
@@ -109,7 +112,7 @@ In the five years after the Snap, Stark chose to retire from being Iron Man, mar
 
 <h3 id="war-machine">War Machine</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war">
-<p>Full name: James Rupert Rhodes<br>
+<p class="marvel">Full name: James Rupert Rhodes<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: 06/10/1968<br>
@@ -136,7 +139,7 @@ Determined to undo Thanos' actions, <strong>War Machine joined the Avengers to <
 
 <h3 id="mrs-stark">Pepper Potts</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200" id="pepper-stark">
-<p>Full name: Virginia Potts<br>
+<p class="marvel">Full name: Virginia Potts<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: Febuary<br>
@@ -158,7 +161,7 @@ However, shortly after the Avengers Civil War ended, Stark and Potts resumed the
 
 <h3 id="iron-bad">Iron Monger</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453" width="200" id="bad-image">
-<p>Full name: Obediah Stane<br>
+<p class="marvel">Full name: Obediah Stane<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: unknown<br>
@@ -171,7 +174,7 @@ Obadiah Stane was the business partner of Tony Stark and a good friend of his fa
 
 <h3 id="ho-man">Ho Yinsen</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="image-ho">
-<p>Full name: Ho Yinsen<br>
+<p class="marvel">Full name: Ho Yinsen<br>
 Species: Human<br>
 Citizenship: Afghan<br>
 DOB: unknown<br>
@@ -182,7 +185,7 @@ After several months in captivity, <strong>Yinsen helped Stark escape the cave b
 
 <h3 id="happy">Happy Hogan</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200" id="img-happy">
-<p>Full name: Harold Joseph Hogan<br>
+<p class="marvel">Full name: Harold Joseph Hogan<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: unknown<br>
@@ -202,7 +205,7 @@ In 2023, Hogan was present at Stark's funeral, after he died during the <em>Batt
 
 <h3 id="son-coul">Phil Coulson</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-phil">
-<p>Full name: Phillip J. Coulson<br>
+<p class="marvel">Full name: Phillip J. Coulson<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: 08/07/1964<br>
@@ -232,7 +235,7 @@ Coming to peace with the terms of his impeding death, Coulson retired from S.H.I
 
 <h3>Nick Fury</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/310?cb=20161119163035" width="200" id="img-fury">
-<p>Full name: Nicholas Joseph Fury<br>
+<p class="marvel">Full name: Nicholas Joseph Fury<br>
 Species: Human<br>
 Citizenship: American<br>
 DOB: 04/07/1950<br>
