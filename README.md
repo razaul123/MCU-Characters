@@ -44,6 +44,20 @@
   border-style:solid;
   border-color: slateblue;          
   }
+  #son-coul{
+  color: dodgerblue;
+  }     
+  #image-coul{
+  boder-style:solid;
+  border-color:dodgerblue;          
+  }     
+  #ho-man{
+ color: mediumseagreen;
+  }
+  #image-ho{
+border-style:solid;
+  border-color: mediumseagreen;
+}          
   </style>
  
    </head>
@@ -144,8 +158,8 @@ Alias:<br>
    </ul>
 Obadiah Stane was the business partner of Tony Stark and a good friend of his father, <em>Howard Stark</em>. After Howard's death, <strong>Stane became interim CEO of Stark Industries until Tony took over officially shortly after</strong>. Stane's jealousy of the younger Stark led him to join forces with the Ten Rings to organize a failed attempt to assassinate him so Stane could become CEO once again. <strong>He further armed the Ten Rings with Stark Industries weapons</strong>, to facilitate their campaign in the war-torn <em>Gulmira</em>. When his involvement with terrorists was exposed by Pepper Potts, Stane created the <em>Iron Monger Armor</em> and attempted to kill Stark himself, leading to his own death.</p>   
 
-<h3>Ho Yinsen</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200">
+<h3 id="ho-man">Ho Yinsen</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="imag-ho">
 <p>Full name: Ho Yinsen<br>
 Species: Human<br>
 Citizenship: Afghan<br>
@@ -175,8 +189,8 @@ Hogan oversaw <strong>Stark's mentorship over Spider-Man</strong>, aiding the yo
 
 In 2023, Hogan was present at Stark's funeral, after he died during the <em>Battle of Earth</em>. The grief-ridden Hogan began working with May Parker, and helped Peter Parker fight the Elementals in Europe.</p>
 
-<h3>Phil Coulson</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200">
+<h3 id="son-coul">Phil Coulson</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="image-coul">
 <p>Full name: Phillip J. Coulson<br>
 Species: Human<br>
 Citizenship: American<br>
