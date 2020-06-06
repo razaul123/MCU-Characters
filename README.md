@@ -159,7 +159,7 @@ Alias:<br>
 Obadiah Stane was the business partner of Tony Stark and a good friend of his father, <em>Howard Stark</em>. After Howard's death, <strong>Stane became interim CEO of Stark Industries until Tony took over officially shortly after</strong>. Stane's jealousy of the younger Stark led him to join forces with the Ten Rings to organize a failed attempt to assassinate him so Stane could become CEO once again. <strong>He further armed the Ten Rings with Stark Industries weapons</strong>, to facilitate their campaign in the war-torn <em>Gulmira</em>. When his involvement with terrorists was exposed by Pepper Potts, Stane created the <em>Iron Monger Armor</em> and attempted to kill Stark himself, leading to his own death.</p>   
 
 <h3 id="ho-man">Ho Yinsen</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="imag-ho">
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="image-ho">
 <p>Full name: Ho Yinsen<br>
 Species: Human<br>
 Citizenship: Afghan<br>
