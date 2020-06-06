@@ -47,7 +47,7 @@
   #son-coul{
   color: dodgerblue;
   }     
-  #image-coul{
+  #img-coul{
   boder-style:solid;
   border-color:dodgerblue;          
   }     
@@ -190,7 +190,7 @@ Hogan oversaw <strong>Stark's mentorship over Spider-Man</strong>, aiding the yo
 In 2023, Hogan was present at Stark's funeral, after he died during the <em>Battle of Earth</em>. The grief-ridden Hogan began working with May Parker, and helped Peter Parker fight the Elementals in Europe.</p>
 
 <h3 id="son-coul">Phil Coulson</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="image-coul">
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-coul">
 <p>Full name: Phillip J. Coulson<br>
 Species: Human<br>
 Citizenship: American<br>
