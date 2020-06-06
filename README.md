@@ -113,7 +113,7 @@ In the five years after the Snap, Stark chose to retire from being Iron Man, mar
 
 <h3 id="war-machine">War Machine</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war">
-<a href="https://en.wikipedia.org/wiki/War_Machine"> Iron Man</a>
+<a href="https://en.wikipedia.org/wiki/War_Machine">War Machine</a>
 <p class="marvel">Full name: James Rupert Rhodes<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -141,7 +141,7 @@ Determined to undo Thanos' actions, <strong>War Machine joined the Avengers to <
 
 <h3 id="mrs-stark">Pepper Potts</h3>
 <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200" id="pepper-stark">
-<a href="https://en.wikipedia.org/wiki/Pepper_Potts"> Iron Man</a>
+<a href="https://en.wikipedia.org/wiki/Pepper_Potts">Ppper Potts</a>
 <p class="marvel">Full name: Virginia Potts<br>
 Species: Human<br>
 Citizenship: American<br>
