@@ -65,6 +65,10 @@ color: royalblue;
 border-style: solid;
  border-color: royalblue;
 }
+#img-fury{
+border-style:solid;
+ border-color: red;
+}
   </style>
  
    </head>
@@ -227,7 +231,7 @@ After he killed her, by <strong>temporarily bonding with the Spirit of Vengeance
 Coming to peace with the terms of his impeding death, Coulson retired from S.H.I.E.L.D. and lived out his remaining days in Tahiti with Melinda May, eventually succumbing to his illness.</p>
 
 <h3>Nick Fury</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/310?cb=20161119163035" width="200">
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/310?cb=20161119163035" width="200" id="img-fury">
 <p>Full name: Nicholas Joseph Fury<br>
 Species: Human<br>
 Citizenship: American<br>
