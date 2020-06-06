@@ -47,9 +47,9 @@
   #son-coul{
   color: dodgerblue;
   }     
-  #img-coul{
-  boder-style:solid;
-  border-color:dodgerblue;          
+  #img-phil{
+  border-style: solid;
+  border-color: dodgerblue;          
   }     
   #ho-man{
  color: mediumseagreen;
@@ -57,7 +57,14 @@
   #image-ho{
 border-style:solid;
   border-color: mediumseagreen;
-}          
+}   
+   #happy{ 
+color: royalblue;
+}
+#img-happy{
+border-style: solid;
+ border-color: royalblue;
+}
   </style>
  
    </head>
@@ -169,8 +176,8 @@ Doctor Ho Yinsen was a <strong>renowned scientist and surgeon</strong>, hailing 
 
 After several months in captivity, <strong>Yinsen helped Stark escape the cave by developing a specialized suit of armor</strong>, but willingly sacrificed himself in the process to the terrorists, telling Stark not to waste his life before he died.</p>
 
-<h3>Happy Hogan</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200">
+<h3 id="happy">Happy Hogan</h3>
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200" id="img-happy">
 <p>Full name: Harold Joseph Hogan<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -190,7 +197,7 @@ Hogan oversaw <strong>Stark's mentorship over Spider-Man</strong>, aiding the yo
 In 2023, Hogan was present at Stark's funeral, after he died during the <em>Battle of Earth</em>. The grief-ridden Hogan began working with May Parker, and helped Peter Parker fight the Elementals in Europe.</p>
 
 <h3 id="son-coul">Phil Coulson</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-coul">
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-phil">
 <p>Full name: Phillip J. Coulson<br>
 Species: Human<br>
 Citizenship: American<br>
