@@ -82,8 +82,7 @@ color: seashell;
 <h2>Characters in Iron Man trilogy</h2>
 
 <h3>Iron Man</h3>
-<a href="https://en.wikipedia.org/wiki/Iron_Man"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man"></a>
-<a href="https://en.wikipedia.org/wiki/Iron_Man"> Iron Man</a> 
+<a href="https://en.wikipedia.org/wiki/Iron_Man"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man"></a> 
 <p class="marvel">Full name: Anthony Edward Stark<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -97,6 +96,47 @@ Alias:<br>
         <li>The American Patriot</li>
         <li>The Prodigal Son</li>
    </ul>
+<table>
+<thead>
+<tr>
+    <th>Armor Name</th>
+    <th>Armor Mark</th>
+    <th>Film>
+</t>
+</thead>
+<tbody>
+<tr>
+    <td>Iron Man</td>
+    <td>Mark I</td>
+    <td>Iron Man 1/2</td>
+</tr>
+<tr>
+    <td>Iron Man</td>
+    <td>Mark II</td>
+    <td>Iron Man 1/2</td>
+</tr>
+<tr>
+    <td>Iron Man</td>
+    <td>Mark III</td>
+    <td>Iron Man 1/2</td>
+</tr>
+    <tr>
+    <td>Iron Man</td>
+    <td>Mark IV</td>
+    <td>Iron Man 2</td>
+</tr>
+   <tr>
+    <td>Iron Man</td>
+    <td>Mark V</td>
+    <td>Iron Man 2</td>
+</tr>
+  <tr>
+    <td>Iron Man</td>
+    <td>Mark VI</td>
+    <td>Iron Man 2</td>
+</tr>
+</tbody>    
+</table>
 Anthony Edward "Tony" Stark was a <strong>billionaire industrialist, a founding member of the <em>Avengers</em>, and the former CEO of Stark Industries</strong>. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist. With his great wealth and exceptional technical knowledge, Stark was one of the world's most powerful men following the deaths of his parents and enjoyed the playboy lifestyle for many years until he was kidnapped by the <em>Ten Rings</em> in Afghanistan, while demonstrating a fleet of Jericho missiles. With his life on the line, Stark created an armored suit which he used to escape his captors. Upon returning home, he utilized several more armors to use against terrorists, as well as <em>Obadiah Stane</em> who turned against Stark. Stark enjoyed the fame that came with his new secret identity and decided to share it with the world, <strong>publicly revealing himself as Iron Man</strong>.<br>
     
 Fresh off from defeating enemies all over the world, Stark found himself dying due to his own <em>Arc Reactor</em> poisoning his body, all while he was challenged by <em>Ivan Vanko</em> who attempted to destroy his legacy. Due to their assistance in both these battles, Stark reluctantly agreed to serve as a <strong>consultant for S.H.I.E.L.D. where he used his position to upgrade their technology</strong> while he began a relationship with <em>Pepper Potts</em>. With the world yet again being threatened, Stark joined the Avengers and helped defeat the <em>Chitauri</em> and <em>Loki</em>. Due to the battle, he suffered from post-traumatic stress disorder, leading him to create the <em>Iron Legion</em> to safeguard the world and help him retire.<br>
@@ -112,8 +152,8 @@ After the Ultron Offensive, Stark retired from active duty, still haunted by his
 In the five years after the Snap, Stark chose to retire from being Iron Man, marrying Potts and having a daughter, <em>Morgan Stark</em>. <strong>When Stark discovered the key to travel through time, he rejoined the Avengers to undo the Snap</strong>, traveling back in time to retrieve the Scepter and then to regain the <em>Tesseract</em>. During the Battle of Earth, Stark heroically sacrificed himself to eliminate Thanos and his armies, who traveled through time to collect the Infinity Stones, saving the universe from decimation, and leaving behind a legacy as one of Earth's most revered superheroes.</p>
 
 <h3 id="war-machine">War Machine</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war">
-<a href="https://en.wikipedia.org/wiki/War_Machine">War Machine</a>
+<a href="https://en.wikipedia.org/wiki/War_Machine"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war"></a>
+
 <p class="marvel">Full name: James Rupert Rhodes<br>
 Species: Human<br>
 Citizenship: American<br>
