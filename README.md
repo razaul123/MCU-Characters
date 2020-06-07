@@ -82,8 +82,8 @@ color: seashell;
 <h2>Characters in Iron Man trilogy</h2>
 
 <h3>Iron Man</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man">
-<a href="https://en.wikipedia.org/wiki/Iron_Man" <img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man">> Iron Man</a> 
+<a href="https://en.wikipedia.org/wiki/Iron_Man"></a><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175213" width="200" id="iron-man">
+<a href="https://en.wikipedia.org/wiki/Iron_Man"> Iron Man</a> 
 <p class="marvel">Full name: Anthony Edward Stark<br>
 Species: Human<br>
 Citizenship: American<br>
