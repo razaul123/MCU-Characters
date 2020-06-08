@@ -111,48 +111,6 @@ After the Ultron Offensive, Stark retired from active duty, still haunted by his
 In the five years after the Snap, Stark chose to retire from being Iron Man, marrying Potts and having a daughter, <em>Morgan Stark</em>. <strong>When Stark discovered the key to travel through time, he rejoined the Avengers to undo the Snap</strong>, traveling back in time to retrieve the Scepter and then to regain the <em>Tesseract</em>. During the Battle of Earth, Stark heroically sacrificed himself to eliminate Thanos and his armies, who traveled through time to collect the Infinity Stones, saving the universe from decimation, and leaving behind a legacy as one of Earth's most revered superheroes.</p>
 
 
-<table>
-<thead>Iron Man Armors
-<tr>
-    <th>Armor Name</th>
-    <th>Armor Mark</th>
-    <th>Film>
-</t>
-</thead>
-<tbody>
-<tr>
-    <td>Iron Man</td>
-    <td>Mark I</td>
-    <td>Iron Man 1/2</td>
-</tr>
-<tr>
-    <td>Iron Man</td>
-    <td>Mark II</td>
-    <td>Iron Man 1/2</td>
-</tr>
-<tr>
-    <td>Iron Man</td>
-    <td>Mark III</td>
-    <td>Iron Man 1/2</td>
-</tr>
-    <tr>
-    <td>Iron Man</td>
-    <td>Mark IV</td>
-    <td>Iron Man 2</td>
-</tr>
-   <tr>
-    <td>Iron Man</td>
-    <td>Mark V</td>
-    <td>Iron Man 2</td>
-</tr>
-  <tr>
-    <td>Iron Man</td>
-    <td>Mark VI</td>
-    <td>Iron Man 2</td>
-</tr>
-</tbody>    
-</table>
-
 <h3 id="war-machine">War Machine</h3>
 <a href="https://en.wikipedia.org/wiki/War_Machine"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/WarMachine-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423174940" width="200" id="image-war"></a>
 
