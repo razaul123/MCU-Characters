@@ -76,9 +76,7 @@ color: seashell;
 border-style:solid;
 border-color: darkmagenta;
 }
-.ai{
-color:darkmagenta;
-}            
+           
 p{
 text-align: center;
 }
@@ -277,7 +275,7 @@ In 2018, now operating underground with a hand-picked crew, Fury was one of the 
 
 <h3 id="sweet">J.A.R.V.I.S.</h3>
 <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S."><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/310?cb=20120722164138" width="200" id="img-jarvis"></a>
-<p class="ai">Full name: Just A Rather Very Intelligent System <br>
+<p class="marvel">Full name: Just A Rather Very Intelligent System <br>
 Species: Artificial Intelligence<br>
 Citizenship: NONE<br>
 DOB: Unknown<br>
