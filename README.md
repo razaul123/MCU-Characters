@@ -82,6 +82,9 @@ color:darkmagenta;
 p{
 text-align: center;
 }
+#sweet{
+color: darkmagenta;
+}
   </style>
  
    </head>
@@ -272,7 +275,7 @@ Once Fury and his allies had stopped Project Insight and also killed Pierce, <st
 
 In 2018, now operating underground with a hand-picked crew, Fury was one of the trillions of victims in the Snap but <strong>had managed to send a distress signal to Captain Marvel before his death</strong>. In 2023, Fury was resurrected by Hulk in the Blip and attended Tony Stark's funeral alongside the other Avengers after he sacrificed his life in the <em>Battle of Earth</em>. Fury was then made aware of <strong>Peter Parker's identity as Spider-Man</strong> and was tasked with delivering the E.D.I.T.H. glasses to him. However, deciding to take a vacation in space on <em>Talos' flagship</em>, <strong>Fury tasked Talos and Soren to impersonate himself and Maria Hill respectively on Earth</strong> and to deliver the glasses to Spider-Man on his behalf. After discovering that Talos and Spider-Man had been involved in a crisis in Europe, Fury decided to end his vacation and return to work.</p>   
 
-<h3>J.A.R.V.I.S.</h3>
+<h3 id="sweet">J.A.R.V.I.S.</h3>
 <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S."><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/310?cb=20120722164138" width="200" id="img-jarvis"></a>
 <p class="ai">Full name: Just A Rather Very Intelligent System <br>
 Species: Artificial Intelligence<br>
