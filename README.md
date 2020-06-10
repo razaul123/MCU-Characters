@@ -73,7 +73,7 @@ border-style:solid;
 color: seashell;
 }
 p{
-text-align: centre;
+text-align: center;
 }
   </style>
  
