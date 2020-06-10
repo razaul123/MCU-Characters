@@ -72,6 +72,9 @@ border-style:solid;
 .marvel{
 color: seashell;
 }
+p{
+text-align: centre;
+}
   </style>
  
    </head>
