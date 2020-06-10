@@ -72,6 +72,13 @@ border-style:solid;
 .marvel{
 color: seashell;
 }
+#img-jarvis{
+border-style:solid;
+border-color: darkmagenta;
+}
+.ai{
+color:darkmagenta;
+}            
 p{
 text-align: center;
 }
@@ -143,8 +150,8 @@ Having been given leg braces by Tony Stark to help him walk again, Rhodes had be
 Determined to undo Thanos' actions, <strong>War Machine joined the Avengers to <em>the Garden</em></strong>, as they discovered that Thanos had destroyed the Infinity Stones, prompting Thor to behead the Mad Titan. However, by 2023, the Avengers learned to travel through time and War Machine joined Nebula on a mission to take the <em>Power Stone</em> from <em>Morag</em> in 2014. Succeeding in the mission, the Avengers reversed the Snap, before then being attacked by a past version of Thanos and his entire armies of the Chitauri and Outriders. War Machine then joined his fellow heroes in battling Thanos until Tony Stark sacrificed his life to finally eliminate Thanos, as Rhodes stayed by his best friend's side during his final moments before attending his funeral.</p>
 
 <h3 id="mrs-stark">Pepper Potts</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200" id="pepper-stark">
-<a href="https://en.wikipedia.org/wiki/Pepper_Potts">Ppper Potts</a>
+<a href="https://en.wikipedia.org/wiki/Pepper_Potts"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/F_153752.jpg/revision/latest/scale-to-width-down/310?cb=20190806085706" width="200" id="pepper-stark"></a>
+
 <p class="marvel">Full name: Virginia Potts<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -166,7 +173,7 @@ As the War on HYDRA began, <strong>the Avengers needed to be remobilized. Withou
 However, shortly after the Avengers Civil War ended, Stark and Potts resumed their relationship, where Stark eventually proposed to her. <strong>The two married following the Snap and had a daughter, Morgan Stark</strong>. The three of them resided on the Stark Residence until Stark departed for <em>the Time Heist</em>. Later, Potts joined the Avengers in <em>the Battle of Earth</em> as <em>Rescue</em>, wearing <em>the Mark XLIX armor</em>, when Thanos' forces invaded. After Stark died by her side, Potts was present at his funeral, where she set adrift Stark's first Arc Reactor onto a wreath into their residential lakeside.</p>
 
 <h3 id="iron-bad">Iron Monger</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453" width="200" id="bad-image">
+<a href="https://en.wikipedia.org/wiki/Iron_Monger"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/IronMonger.jpg/revision/latest/scale-to-width-down/310?cb=20160719175453" width="200" id="bad-image"></a>
 <p class="marvel">Full name: Obediah Stane<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -179,7 +186,7 @@ Alias:<br>
 Obadiah Stane was the business partner of Tony Stark and a good friend of his father, <em>Howard Stark</em>. After Howard's death, <strong>Stane became interim CEO of Stark Industries until Tony took over officially shortly after</strong>. Stane's jealousy of the younger Stark led him to join forces with the Ten Rings to organize a failed attempt to assassinate him so Stane could become CEO once again. <strong>He further armed the Ten Rings with Stark Industries weapons</strong>, to facilitate their campaign in the war-torn <em>Gulmira</em>. When his involvement with terrorists was exposed by Pepper Potts, Stane created the <em>Iron Monger Armor</em> and attempted to kill Stark himself, leading to his own death.</p>   
 
 <h3 id="ho-man">Ho Yinsen</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="image-ho">
+<a href="https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_Y#Ho_Yinsen"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Yinsen.jpg/revision/latest?cb=20120709074950" width="200" id="image-ho"></a>
 <p class="marvel">Full name: Ho Yinsen<br>
 Species: Human<br>
 Citizenship: Afghan<br>
@@ -190,7 +197,7 @@ Doctor Ho Yinsen was a <strong>renowned scientist and surgeon</strong>, hailing 
 After several months in captivity, <strong>Yinsen helped Stark escape the cave by developing a specialized suit of armor</strong>, but willingly sacrificed himself in the process to the terrorists, telling Stark not to waste his life before he died.</p>
 
 <h3 id="happy">Happy Hogan</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200" id="img-happy">
+<a href="https://en.wikipedia.org/wiki/Happy_Hogan_(character)"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Happy_Hogan_Endgame_Textless.jpg/revision/latest/scale-to-width-down/310?cb=20190423161046" width="200" id="img-happy"></a>
 <p class="marvel">Full name: Harold Joseph Hogan<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -210,7 +217,7 @@ Hogan oversaw <strong>Stark's mentorship over Spider-Man</strong>, aiding the yo
 In 2023, Hogan was present at Stark's funeral, after he died during the <em>Battle of Earth</em>. The grief-ridden Hogan began working with May Parker, and helped Peter Parker fight the Elementals in Europe.</p>
 
 <h3 id="son-coul">Phil Coulson</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-phil">
+<a href="https://en.wikipedia.org/wiki/Phil_Coulson"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Coulson_AoS5.jpg/revision/latest/scale-to-width-down/299?cb=20200329140511" width="200" id="img-phil"></a>
 <p class="marvel">Full name: Phillip J. Coulson<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -240,7 +247,7 @@ After he killed her, by <strong>temporarily bonding with the Spirit of Vengeance
 Coming to peace with the terms of his impeding death, Coulson retired from S.H.I.E.L.D. and lived out his remaining days in Tahiti with Melinda May, eventually succumbing to his illness.</p>
 
 <h3>Nick Fury</h3>
-<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/310?cb=20161119163035" width="200" id="img-fury">
+<a href="https://en.wikipedia.org/wiki/Nick_Fury"><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/310?cb=20161119163035" width="200" id="img-fury"></a>
 <p class="marvel">Full name: Nicholas Joseph Fury<br>
 Species: Human<br>
 Citizenship: American<br>
@@ -264,5 +271,20 @@ Following the Avengers's victory, <strong>Fury recruited Captain America as a S.
 Once Fury and his allies had stopped Project Insight and also killed Pierce, <strong>Fury chose to go into hiding to continue hunting down the remaining HYDRA cells</strong>. Fury then assisted the now resurrected Phil Coulson in defeating John Garrett while also stopping his plans for <em>Project Deathlok</em>. Following this, Fury chose to promote Coulson to Director of S.H.I.E.L.D., telling him to rebuild it from the ground up. Fury had then also aided the Avengers during the Ultron Offensive, serving as support during the Battle of Sokovia. There, he commanded the rebuilt <em>Helicarrier</em>, which Coulson's new S.H.I.E.L.D. secretly worked on.<br>
 
 In 2018, now operating underground with a hand-picked crew, Fury was one of the trillions of victims in the Snap but <strong>had managed to send a distress signal to Captain Marvel before his death</strong>. In 2023, Fury was resurrected by Hulk in the Blip and attended Tony Stark's funeral alongside the other Avengers after he sacrificed his life in the <em>Battle of Earth</em>. Fury was then made aware of <strong>Peter Parker's identity as Spider-Man</strong> and was tasked with delivering the E.D.I.T.H. glasses to him. However, deciding to take a vacation in space on <em>Talos' flagship</em>, <strong>Fury tasked Talos and Soren to impersonate himself and Maria Hill respectively on Earth</strong> and to deliver the glasses to Spider-Man on his behalf. After discovering that Talos and Spider-Man had been involved in a crisis in Europe, Fury decided to end his vacation and return to work.</p>   
+
+<h3>J.A.R.V.I.S.</h3>
+<a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S."><img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/310?cb=20120722164138" width="200" id="img-jarvis"></a>
+<p class="ai">Full name: Just A Rather Very Intelligent System <br>
+Species: Artificial Intelligence<br>
+Citizenship: NONE<br>
+DOB: Unknown<br>
+DOD: Upgraded<br>
+    <em>Just A Rather Very Intelligent System</em> (J.A.R.V.I.S.) was originally <strong>Tony Stark's natural-language user interface computer system</strong>, named after <em>Edwin Jarvis</em>, the butler who worked for <em>Howard Stark</em>.<br>
+
+Over time, he was <strong>upgraded into an artificially intelligent system, tasked with running business for Stark Industries as well as security for Tony Stark's Mansion and Stark Tower</strong>.<br>
+
+After creating the <em>Mark II armor</em>, <strong>Stark uploaded J.A.R.V.I.S. into all of the Iron Man Armors</strong>, as well as allowing him to interact with the other Avengers, giving them valuable information during combat.<br>
+
+During the Ultron Offensive, <strong>J.A.R.V.I.S. was destroyed by Ultron</strong>, although his remaining programming codes unknowingly continued to thwart Ultron's plans of gaining access to nuclear missiles. His remains were found by Stark, who <strong>uploaded them into a synthetic body made of vibranium and, in conjunction with Ultron's personality and an Infinity Stone</strong>, an entirely new being was made: <em>Vision</em>. J.A.R.V.I.S.' duties were then taken over by <em>F.R.I.D.A.Y.</em></p>
    </body>
 </html>
